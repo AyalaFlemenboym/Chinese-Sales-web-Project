@@ -101,7 +101,11 @@ builder.Services.AddCors(options =>
 });
 
 app.UseCors("AllowAll");
+
+
 בהצלחה!
+
+
 מפתחת: אילה פלמנבוים 🌸
 
 
